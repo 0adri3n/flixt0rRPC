@@ -22,15 +22,15 @@ Open up the executable and press 1.
 
 Now just put the movie link in the terminal and press enter !
 
-![image](https://github.com/akira-trinity/flixt0rRPC/assets/62818208/a335bd0e-4504-4afd-804f-c81977114c79)
+![image](https://github.com/akira-trinity/flixt0rRPC/assets/62818208/18b8dd3a-322f-4716-ab15-d86b3f9ff8ea)
+
 
 RPC should be started ! :)
 
-![image](https://github.com/akira-trinity/flixt0rRPC/assets/62818208/896211ba-d576-4dd2-ae4a-696483c1bd5d)
+![image](https://github.com/akira-trinity/flixt0rRPC/assets/62818208/e2f7ecc3-f1a5-403e-9bfe-351de32ff0e7)
 
 
-
-![image](https://github.com/akira-trinity/flixt0rRPC/assets/62818208/9213f492-e8d2-4f97-a60b-e3bc568d3a5b)
+![image](https://github.com/akira-trinity/flixt0rRPC/assets/62818208/d1893789-baa3-43b1-be5b-901f8ffbd575)
 
 
 ## Contributing
